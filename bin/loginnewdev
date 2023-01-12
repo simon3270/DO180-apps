@@ -1,0 +1,1 @@
+oc login -u newdev -p redhat123 https://api.ocp4.example.com:6443
